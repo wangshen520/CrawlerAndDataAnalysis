@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8676efb5-8187-47ed-aeb3-92f2bbce843a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ToutiaoCrawlerTest" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bhIgmRk8CmO6bpAbp3t72Jz9xQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.cluster_analysis">
+    <configuration name="cluster_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ToutiaoCrawler-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analysis/cluster_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_toutiao_news_byapi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ToutiaoCrawler-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Crawler/get_toutiao_news_byapi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_toutiao_news_bykeyword" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ToutiaoCrawler-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Crawler/get_toutiao_news_bykeyword.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="toutiao_news" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ToutiaoCrawler-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Crawler/toutiao_news.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word_frequency" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ToutiaoCrawler-2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analysis/word_frequency.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cluster_analysis" />
+        <item itemvalue="Python.get_toutiao_news_byapi" />
+        <item itemvalue="Python.toutiao_news" />
+        <item itemvalue="Python.word_frequency" />
+        <item itemvalue="Python.get_toutiao_news_bykeyword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8676efb5-8187-47ed-aeb3-92f2bbce843a" name="Default Changelist" comment="" />
+      <created>1589078011587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589078011587</updated>
+      <workItem from="1589078015931" duration="11101000" />
+      <workItem from="1589179251559" duration="43000" />
+      <workItem from="1589179312996" duration="61000" />
+      <workItem from="1589179392431" duration="400000" />
+      <workItem from="1589180610877" duration="288000" />
+      <workItem from="1589186568807" duration="61000" />
+      <workItem from="1589186646336" duration="58000" />
+      <workItem from="1589186866274" duration="110000" />
+      <workItem from="1589186993232" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="290" width="325" height="270" key="Github.ShareDialog" timestamp="1590034590402">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="570" y="290" width="325" height="270" key="Github.ShareDialog/0.23.1440.822@0.23.1440.822" timestamp="1590034590402" />
+    <state width="1286" height="2" key="GridCell.Tab.0.bottom" timestamp="1589552147074">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1589123397116" />
+    <state width="1379" height="107" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1589192900002" />
+    <state width="1379" height="253" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1589444675752" />
+    <state width="1379" height="257" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1589440413917" />
+    <state width="1286" height="256" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1589522174152" />
+    <state width="1286" height="2" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1589552147074" />
+    <state width="1286" height="74" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1589523744867" />
+    <state width="1286" height="2" key="GridCell.Tab.0.center" timestamp="1589552147072">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1589123397116" />
+    <state width="1379" height="107" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1589192900001" />
+    <state width="1379" height="253" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1589444675750" />
+    <state width="1379" height="257" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1589440413916" />
+    <state width="1286" height="256" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1589522174151" />
+    <state width="1286" height="2" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1589552147072" />
+    <state width="1286" height="74" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1589523744866" />
+    <state width="1286" height="2" key="GridCell.Tab.0.left" timestamp="1589552147072">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1589123397115" />
+    <state width="1379" height="107" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1589192900000" />
+    <state width="1379" height="253" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1589444675744" />
+    <state width="1379" height="257" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1589440413915" />
+    <state width="1286" height="256" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1589522174150" />
+    <state width="1286" height="2" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1589552147072" />
+    <state width="1286" height="74" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1589523744865" />
+    <state width="1286" height="2" key="GridCell.Tab.0.right" timestamp="1589552147073">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1358" height="224" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1589123397116" />
+    <state width="1379" height="107" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1589192900001" />
+    <state width="1379" height="253" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1589444675751" />
+    <state width="1379" height="257" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1589440413917" />
+    <state width="1286" height="256" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1589522174151" />
+    <state width="1286" height="2" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1589552147073" />
+    <state width="1286" height="74" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1589523744866" />
+    <state x="83" y="74" key="SettingsEditor" timestamp="1590034697265">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="83" y="74" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1589188246102" />
+    <state x="83" y="74" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1590034697265" />
+    <state x="387" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1590033600899">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="387" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1589188088284" />
+    <state x="387" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1589203233202" />
+    <state x="387" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1590033600899" />
+    <state x="387" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1589483187643" />
+    <state x="387" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1589462506127" />
+  </component>
+</project>
