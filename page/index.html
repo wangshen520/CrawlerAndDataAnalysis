@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>毕业设计</title>
+
+    <link rel="stylesheet" href="css/index.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        ul {
+            list-style: none;
+        }
+        
+        .hide_img {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">新闻数据分析</a>
+            </div>
+        </div>
+    </nav>
+    <div class="box">
+        <div class="btn">
+            <button class="btn btn-default">新闻词频分析图</button>
+            <button class="btn btn-default">新闻主题情感聚类图</button>
+            <button class="btn btn-default">新闻主题情感偏向图</button>
+            <button class="btn btn-default">新闻关键词图</button>
+            <button class="btn btn-default">新闻分类图</button>
+        </div>
+        <ul class="s_img">
+            <li><img src="img/1.png">
+                <h5>新闻词频分析图</h5>
+            </li>
+            <li><img src="img/2.jpg">
+                <h5>新闻主题情感聚类图</h5>
+            </li>
+            <li><img src="img/3.jpg">
+                <h5>新闻主题情感偏向图</h5>
+            </li>
+            <li><img src="img/4.png">
+                <h5>新闻关键词图</h5>
+            </li>
+            <li><img src="img/5.jpg">
+                <h5>新闻分类图</h5>
+            </li>
+        </ul>
+        <div class="show">
+            <div class="hide_img">
+                <img src="img/1.png">
+                <h5>新闻词频分析图</h5>
+            </div>
+            <div class="hide_img">
+                <img src="img/2.jpg">
+                <h5>新闻主题情感聚类图</h5>
+            </div>
+            <div class="hide_img">
+                <img src="img/3.jpg">
+                <h5>新闻主题情感偏向图</h5>
+            </div>
+            <div class="hide_img">
+                <img src="img/4.png">
+                <h5>新闻关键词图</h5>
+            </div>
+            <div class="hide_img">
+                <img src="img/5.jpg">
+                <h5>新闻分类图</h5>
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script>
+        $(".btn>button").on("click", function() {
+            var index = $(this).index();
+            $(".s_img").hide();
+            $(".show>div").hide();
+            $(".show>div").eq(index).show();
+        })
+    </script>
+</body>
+
+</html>

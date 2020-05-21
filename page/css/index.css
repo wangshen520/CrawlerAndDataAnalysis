@@ -1,0 +1,54 @@
+.box {
+    width: 1200px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.s_img {
+    float: right;
+    width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.s_img li {
+    display: inline-block;
+    border: 1px solid #ccc;
+    margin: 3px;
+}
+
+.s_img img {
+    width: 250px;
+}
+
+.s_img h5,
+.show h5 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.s_img img:first-child {
+    height: 185px;
+}
+
+.btn {
+    float: left;
+    width: 160px;
+}
+
+.btn button {
+    margin-top: 10px;
+}
+
+.show {
+    position: fixed;
+    left: 450px;
+    top: 60px;
+    width: 1000px;
+    height: 600px;
+}
+
+.show img {
+    width: 1000px;
+    height: 600px;
+}
